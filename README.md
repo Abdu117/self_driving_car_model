@@ -119,5 +119,5 @@ This project enhances our understanding of autonomous driving technologies and s
 Thank you to all the contributors who have helped make Self-Driving Car Model better! ✨
 - [Ahmed Khaled](https://github.com/Louda511)
 - [Mohamed Magdy](https://github.com/MohamedMagdy097)
-- [Abelrahman Ashraf](https://github.com/Abdu117)
+- [Abelrahman Elbadawy](https://github.com/AbdelrahmanBadwy)
 - [Rehab Mohamed](https://github.com/rehabmohamed2)
