@@ -1,5 +1,6 @@
 # Self-Driving Car Model with NVIDIA CNN and Udacity Simulator
-
+### This implementation is based on the algorithm described in: https://arxiv.org/abs/1604.07316
+### google colab: https://colab.research.google.com/drive/1bdnRfuj3eC-Lv2FC_t1_IvmTrtDv0KzN?usp=sharing
 
 ## Abstract
 This repository contains the implementation of a self-driving car model using NVIDIA's Convolutional Neural Network (CNN) architecture and the Udacity Simulator. The model is trained to autonomously navigate a simulated environment, demonstrating the capabilities of deep learning in the field of autonomous vehicles.
